@@ -1,18 +1,19 @@
-# Scrabble Score Page.
+# Triangle Tester
 
-##### Using java methods, our app adds your scrabble score. Original draft September 2015.
+##### An app to determine what type of triangle you have!
 
-#### By **Illia Kuchko** and **Nathan Romike**
+#### By **Illia Kuchko** and **Chris Siems**
 
 ## Description
 
-Review our work and tell us what you think. Lets make **awesome** stuff together!
+Using java methods, our app takes three sides, tell you if it is a triangle and what type of triangle it is.
 
 ## Setup
 
->[Visit our page](http://nathanromike.github.io/ScrabbleScore/)
-
-_User's choice of browser, but our favorite is [Chrome](www.google.com/chrome/)._
+* Clone this repository.
+* Install Gradle and Java
+* Run: `gradle run` in program directory.
+* Open `localhost:4567` in web browser.
 
 ## Technologies Used
 
@@ -29,7 +30,7 @@ _User's choice of browser, but our favorite is [Chrome](www.google.com/chrome/).
 ### Legal
 
 
-Copyright (c) 2015 **_Illia Kuchko_** and **_Nathan Romike_**
+Copyright (c) 2016 **_Illia Kuchko_** and **_Chris Siems_**
 
 This software is licensed under the MIT license.
 
