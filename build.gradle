@@ -3,7 +3,7 @@ apply plugin: 'application'
 
 archivesBaseName = "Triangle"
 version = "1.0"
-mainClassName = "Triangle"
+mainClassName = "App"
 
 repositories {
   mavenCentral()

@@ -1,5 +1,3 @@
-
-
 public class Triangle {
   private int mSideOne;
   private int mSideTwo;

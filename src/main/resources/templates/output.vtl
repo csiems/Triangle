@@ -1,0 +1,11 @@
+<p><h3>Your chose sides of $triangle.getSideOne(), $triangle.getSideTwo(), and $triangle.getSideThree()</h3></p>
+
+#if ($triangle.isATriangle())
+  #if ($triangle.isEquilateralTriangle() || $triangle.isIsoscelesTriangle())
+    <p><h3>Your triangle is an $triangle.whatTriangleType() triangle</h3></p>
+  #else
+    <p><h3>Your triangle is a $triangle.whatTriangleType() triangle</h3></p>
+  #end
+#else
+  <p><h3>You cannot make a triangle with those sides!</h3></p>
+#end
