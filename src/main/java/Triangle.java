@@ -7,4 +7,6 @@ import java.util.Random;
 
 public class Triangle {
 
+
+  public Triangle (int sideOne, int sideTwo, int sideThree){}
 }
