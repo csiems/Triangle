@@ -1,0 +1,31 @@
+* Is the Github documentation - commits and README - thorough and descriptive?
+
+- Commits are very descriptive. My favorite is: "add some sick css styling."
+
+* Is there good spec coverage (unit and integration)?
+
+- Unit and the integration testing is thorough.
+
+* Do all specs pass?
+
+- Yes!
+
+* Is the application logic clear and easy to navigate?
+
+- Yes, we used similar logic. It may be better to use more specific logic for the isScaleneTriangle class.
+
+* Are custom classes and methods created?
+
+- Heck Yes!
+
+* Is the site user-friendly?
+Yes! It's nice that the user is prevented from entering things like strings and negative numbers that could break your code.
+The yellow is also friendly.
+
+* Are there opportunities for refactoring?
+
+- It looks like you're repeating the if else loop in whatTriangleType in your output.vtl file. It would probably work better to do this only in your output file.
+
+* Do you have any additional constructive criticism or positive feedback to share?
+
+- Looks and works awesome, great job! Nice font!
